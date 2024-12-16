@@ -1,7 +1,7 @@
 
 <!-- TryHackMe Profile and Badges -->
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/SkullKid16.png" alt="Your Image Badge" />
+    <a target="_blank" href="https://tryhackme.com/p/SkullKid16"><img height="58" title="TryHackMe Profile" alt="TryHackMe SkullKid16 Profile" src="https://tryhackme-badges.s3.amazonaws.com/SkullKid16.png"></a>
 </div>
 <div align="center">
   <a target="_blank" href="https://tryhackme.com/SkullKid16/badges/ohsint"><img title="OhSINT" alt="TryHackMe badge 1"  src="https://tryhackme.com/img/badges/ohsint.svg" width="100"></a>
